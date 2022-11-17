@@ -1,0 +1,16 @@
+#soal 1
+#A.
+print('Menghitung luas lingakaran')
+print('--------------------------')
+A = int(input('masukan jari-jari lingkaran: '))
+phi = 3.14
+L = phi * (A * A)
+print('Luas lingakaran dengan jari-jari {} adalah {}'.format(A, L))
+
+#B.
+print('Menghitung luas lingakaran')
+print('--------------------------')
+A = int(input('masukan jari-jari lingkaran: '))
+phi = 3.14
+L = phi * (A * A)
+print('Luas lingakaran dengan jari-jari {} adalah {}'.format(A, L))
