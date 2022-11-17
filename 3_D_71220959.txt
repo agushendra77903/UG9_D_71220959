@@ -1,0 +1,10 @@
+#soal 3
+#A.
+nama =input("masukkan nama anda: ")
+mata_kuliah =input("masukkan mata kuliah: ")
+grup =input("masukkan grub: ")
+pisah = nama.split(" ")
+depan = pisah[0]
+belakang = pisah[1]
+print(depan,"telah bergabung di kelas",kuliah "pada grup", grup)
+ 
